@@ -1,0 +1,25 @@
+#countdown {
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10rem;
+}
+
+.control {
+    text-align: center;
+}
+
+.buttons {
+    background: rgb(211, 227, 253);
+    font-size: 1.5rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    transition: all 1s;
+}
+
+.buttons:hover {
+    background: rgb(145, 181, 238);
+    cursor: pointer;
+}
